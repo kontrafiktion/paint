@@ -1,181 +1,181 @@
-Name;Company;ID;pigment1;pigment2;pigment3;pigment4;Transparency;Granulating;Staining;Lightfastness;(Pigments);(count-pigments);;
-titanium opaque white;Schmincke;101;PW6;;;;opaque;;;;/PW6/;1;;
-permanent Chinese white;Schmincke;102;PW4;;;;semi-transparent;;;;/PW4/;1;;
-titanium yellow;Schmincke;206;PY53;;;;semi-opaque;;;;/PY53/;1;;
-lemon yellow;Schmincke;215;PY3;;;;semi-transparent;;;;/PY3/;1;;
-cadmium yellow lemon;Schmincke;223;PY35;;;;semi-opaque;;;;/PY35/;1;;
-chromium yellow lemon;Schmincke;211;PY175;;;;transparent;;;;/PY175/;1;;
-vanadium yellow;Schmincke;207;PY184;;;;opaque;;;;/PY184/;1;;
-cadmium yellow light;Schmincke;224;PY35;;;;opaque;;;;/PY35/;1;;
-pure yellow;Schmincke;216;PY154;;;;transparent;;;;/PY154/;1;;
-aureolin hue;Schmincke;208;PY151;;;;semi-transparent;;;;/PY151/;1;;
-cadmium yellow medium;Schmincke;225;PY35;;;;semi-opaque;;;;/PY35/;1;;
-chromium yellow hue light;Schmincke;212;PY153;PY155;;;transparent;;;;/PY153/PY155/;2;;
-transparent yellow;Schmincke;209;PY150;;;;transparent;;;;/PY150/;1;;
-Turner's yellow;Schmincke;219;PY216;;;;semi-opaque;;;;/PY216/;1;;
-quinacridone gold;Schmincke;217;PY150;PR101;;;transparent;;;;/PY150/PR101/;2;;
-chromium yellow hue deep;Schmincke;213;PY65;;;;semi-transparent;;;;/PY65/;1;;
-cadmium yellow hue deep;Schmincke;226;PY35;PO20;;;semi-opaque;;;;/PY35/PO20/;2;;
-Indian yellow;Schmincke;220;PY110;PY154;;;transparent;;;;/PY110/PY154/;2;;
-yellow orange;Schmincke;222;PY110;;;;transparent;;;;/PY110/;1;;
-cadmium orange light;Schmincke;227;PO20;;;;semi-opaque;;;;/PO20/;1;;
-chromium orange hue;Schmincke;214;PO62;;;;semi-transparent;;;;/PO62/;1;;
-cadmium orange deep;Schmincke;228;PO20;;;;opaque;;;;/PO20/;1;;
-transparent orange;Schmincke;218;PO71;;;;semi-transparent;;;;/PO71/;1;;
-Saturn red;Schmincke;359;PO64;;;;semi-transparent;;;;/PO64/;1;;
-cadmium red orange;Schmincke;348;PO20;;;;opaque;;;;/PO20/;1;;
-permanent red orange;Schmincke;360;PO62;PR242;;;semi-opaque;;;;/PO62/PR242/;2;;
-permanent red;Schmincke;361;PR242;PO62;;;semi-opaque;;;;/PR242/PO62/;2;;
-cadmium red light;Schmincke;349;PR108;;;;opaque;;;;/PR108/;1;;
-geranium red;Schmincke;341;PR242;;;;semi-transparent;;;;/PR242/;1;;
-vermillion;Schmincke;365;PR255;;;;opaque;;;;/PR255/;1;;
-vermillion light;Schmincke;342;PR188;;;;transparent;;;;/PR188/;1;;
-scarlet red;Schmincke;363;PR254;;;;semi-opaque;;;;/PR254/;1;;
-cadmium red medium;Schmincke;347;PR108;;;;opaque;;;;/PR108/;1;;
-qunacridone red light;Schmincke;343;PR207;;;;transparent;;;;/PR207/;1;;
-transparent red deep;Schmincke;355;PR144;;;;semi-transparent;;;;/PR144/;1;;
-cadmium red deep;Schmincke;350;PR108;;;;opaque;;;;/PR108/;1;;
-perylene maroon;Schmincke;366;PR179;;;;semi-opaque;;;;/PR179/;1;;
-perylene dark red;Schmincke;344;PR178;;;;semi-opaque;;;;/PR178/;1;;
-alizarin crimson;Schmincke;357;PR83:1;;;;semi-transparent;;;;/PR83:1/;1;;
-ruby red deep;Schmincke;346;PR264;;;;semi-opaque;;;;/PR264/;1;;
-madder lake deep;Schmincke;358;PR83:1;PR177;;;semi-transparent;;;;/PR83:1/PR177/;2;;
-madder red dark;Schmincke;354;PV19;PR179;;;semi-transparent;;;;/PV19/PR179/;2;;
-Bordeaux ;Schmincke;362;PR187;;;;transparent;;;;/PR187/;1;;
-rose madder;Schmincke;356;PR83:1;PR48:4;;;transparent;;;;/PR83:1/PR48:4/;2;;
-permanent carmine;Schmincke;353;PV19;;;;semi-opaque;;;;/PV19/;1;;
-ruby red;Schmincke;351;PV19;;;;semi-transparent;;;;/PV19/;1;;
-magenta;Schmincke;352;PV42;;;;semi-transparent;;;;/PV42/;1;;
-purple magenta;Schmincke;367;PR122;;;;transparent;;;;/PR122/;1;;
-quinacridone magenta;Schmincke;369;PR202;;;;semi-transparent;;;;/PR202/;1;;
-quinacridone violet;Schmincke;368;PV19;;;;semi-opaque;;;;/PV19/;1;;
-potters pink;Schmincke;370;PR233;;;;semi-transparent;G;;;/PR233/;1;;
-perylene violet;Schmincke;371;PV29;;;;opaque;;;;/PV29/;1;;
-quinacridone purple;Schmincke;472;PV55;;;;semi-transparent;;;;/PV55/;1;;
-manganese violet;Schmincke;474;PV16;;;;semi-transparent;G;;;/PV16/;1;;
-Schmincke violet;Schmincke;476;PV23;;;;semi-transparent;;;;/PV23/;1;;
-cobalt violet blue;Schmincke;473;PV62;;;;transparent;G;;;/PV62/;1;;
-ultramarine violet;Schmincke;495;PV15;PB29;;;semi-transparent;G;;;/PV15/PB29/;2;;
-Delft blue;Schmincke;482;PB60;;;;opaque;;;;/PB60/;1;;
-indigo;Schmincke;485;PB15:1;PB66;;;opaque;;;;/PB15:1/PB66/;2;;
-dark blue;Schmincke;498;PB60;;;;semi-opaque;;;;/PB60/;1;;
-phtalo saphire blue;Schmincke;477;PB15:6;;;;semi-transparent;;;;/PB15:6/;1;;
-cobalt blue deep;Schmincke;488;PB74;;;;semi-transparent;G;;;/PB74/;1;;
-french ultramarine;Schmincke;493;PB29;;;;transparent;G;;;/PB29/;1;;
-ultramarine finest;Schmincke;494;PB29;;;;semi-transparent;;;;/PB29/;1;;
-ultramarine blue;Schmincke;496;PB15;PB29;;;semi-transparent;;;;/PB15/PB29/;2;;
-cobalt blue light;Schmincke;487;PB28;;;;semi-transparent;;;;/PB28/;1;;
-cobalt blue hue;Schmincke;486;PW4;PB29;;;semi-transparent;;;;/PW4/PB29/;2;;
-mountain blue;Schmincke;480;PW5;PB29;PG7;;semi-transparent;;;;/PW5/PB29/PG7/;3;;
-cobalt azure;Schmincke;483;PB35;;;;semi-transparent;G;;;/PB35/;1;;
-Prussian blue;Schmincke;492;PB27;;;;semi-opaque;;;;/PB27/;1;;
-Paris blue;Schmincke;491;PB15;PB15:1;PB27;;semi-opaque;;;;/PB15/PB15:1/PB27/;3;;
-phtalo blue;Schmincke;484;PB15:1;;;;semi-transparent;;;;/PB15:1/;1;;
-cerulean blue hue;Schmincke;481;PW4;PB15:3;;;semi-transparent;;;;/PW4/PB15:3/;2;;
-helio cerulean;Schmincke;479;PB15:3;;;;semi-transparent;;;;/PB15:3/;1;;
-cobalt cerulean;Schmincke;499;PB36;;;;semi-opaque;G;;;/PB36/;1;;
-helio turquoise;Schmincke;475;PB16;;;;semi-transparent;;;;/PB16/;1;;
-cobalt turquoise;Schmincke;509;PG50;;;;semi-transparent;G;;;/PG50/;1;;
-cobalt green turquoise;Schmincke;510;PB36;;;;opaque;G;;;/PB36/;1;;
-Prussian green;Schmincke;528;PG7;PB60;;;semi-opaque;;;;/PG7/PB60/;2;;
-viridian;Schmincke;513;PG18;;;;semi-transparent;G;;;/PG18/;1;;
-chromium oxide green brilliant;Schmincke;511;PG18;PG7;;;transparent;G;;;/PG18/PG7/;2;;
-phtalo green;Schmincke;519;PG7;;;;transparent;;;;/PG7/;1;;
-helio green;Schmincke;514;PG36;;;;semi-transparent;;;;/PG36/;1;;
-permanent green olive;Schmincke;534;PG62;PG7;;;semi-opaque;;;;/PG62/PG7/;2;;
-sap green;Schmincke;530;PY153;PG7;;;transparent;;;;/PY153/PG7/;2;;
-permanent green;Schmincke;526;PY155;PG7;;;semi-transparent;;;;/PY155/PG7/;2;;
-may green;Schmincke;524;PY151;PG7;;;transparent;;;;/PY151/PG7/;2;;
-cobalt green pure;Schmincke;535;PG19;;;;opaque;G;;;/PG19/;1;;
-cobalt green dark;Schmincke;533;PG26;;;;opaque;G;;;/PG26/;1;;
-Hooker's green;Schmincke;521;PB15:3;PG7;PY42;;opaque;;;;/PB15:3/PG7/PY42/;3;;
-olive green;Schmincke;515;PB15;PG8;;;semi-opaque;;;;/PB15/PG8/;2;;
-chromium oxide green;Schmincke;512;PG17;;;;opaque;;;;/PG17/;1;;
-olive green yellowish;Schmincke;525;PO62;PG36;;;semi-transparent;;;;/PO62/PG36/;2;;
-green earth;Schmincke;516;PBr7;PG7;;;semi-transparent;;;;/PBr7/PG7/;2;;
-transparent green gold;Schmincke;537;PY154;PBr7;;;transparent;;;;/PY154/PBr7/;2;;
-rutile yellow;Schmincke;205;PY53;;;;semi-opaque;;;;/PY53/;1;;
-jaune brilliant dark;Schmincke;221;PW6;PY53;PBr24;;opaque;;;;/PW6/PY53/PBr24/;3;;
-Naples yellow;Schmincke;229;PW6;PY53;PBr24;;opaque;;;;/PW6/PY53/PBr24/;3;;
-raw Sienna;Schmincke;660;PBr7;PY43;;;semi-transparent;;;;/PBr7/PY43/;2;;
-yellow raw ochre;Schmincke;656;PY42;PY43;;;semi-transparent;;;;/PY42/PY43/;2;;
-titanium gold ochre;Schmincke;659;PBr24;;;;opaque;;;;/PBr24/;1;;
-yellow ochre;Schmincke;655;PY42;;;;semi-opaque;;;;/PY42/;1;;
-transparent ochre;Schmincke;657;PY42;;;;transparent;;;;/PY42/;1;;
-raw umber;Schmincke;667;PBr7;PY43;;;semi-transparent;G;;;/PBr7/PY43/;2;;
-Naples yellow reddish;Schmincke;230;PW6;PW4;PR242;PY42;opaque;;;;/PW6/PW4/PR242/PY42/;4;;
-spinel brown;Schmincke;650;PY119;;;;opaque;;;;/PY119/;1;;
-gold brown;Schmincke;654;PY65;PBr41;;;semi-opaque;;;;/PY65/PBr41/;2;;
-transparent Sienna;Schmincke;653;PR101;;;;transparent;;;;/PR101/;1;;
-maroon brown;Schmincke;651;PBr7;;;;semi-opaque;G;;;/PBr7/;1;;
-burnt Sienna;Schmincke;661;PR101;PBk9;;;semi-opaque;;;;/PR101/PBk9/;2;;
-English Venetian red;Schmincke;649;PR101;;;;opaque;;;;/PR101/;1;;
-madder brown;Schmincke;670;PR206;;;;semi-transparent;;;;/PR206/;1;;
-transparent brown;Schmincke;648;PBr41;;;;semi-opaque;;;;/PBr41/;1;;
-mahogany brown;Schmincke;672;PBr33;;;;opaque;G;;;/PBr33/;1;;
-Indian red;Schmincke;645;PR101;PR206;;;opaque;G;;;/PR101/PR206/;2;;
-Mars brown;Schmincke;658;PBr6;;;;opaque;G;;;/PBr6/;1;;
-transparent umber;Schmincke;671;PR101;;;;transparent;;;;/PR101/;1;;
-burnt umber;Schmincke;668;PBr7;;;;semi-opaque;;;;/PBr7/;1;;
-green umber;Schmincke;665;PBr7;;;;semi-transparent;G;;;/PBr7/;1;;
-Vandyke brown;Schmincke;669;PY150;PBr7;PBk7;;semi-opaque;;;;/PY150/PBr7/PBk7/;3;;
-sepia brown;Schmincke;663;PB15:1;PBr7;PBk9;;semi-opaque;;;;/PB15:1/PBr7/PBk9/;3;;
-sepia brown reddish;Schmincke;662;PR242;PBr7;PBk9;;semi-opaque;;;;/PR242/PBr7/PBk9/;3;;
-neutral tint;Schmincke;782;PR122;PB60;PBk7;;semi-opaque;;;;/PR122/PB60/PBk7/;3;;
-neutral grey;Schmincke;785;PR255;PB255;PO62;;semi-opaque;;;;/PR255/PB255/PO62/;3;;
-Payne's grey bluish;Schmincke;787;PBk6;PB15:6;;;semi-opaque;;;;/PBk6/PB15:6/;2;;
-perylene green;Schmincke;784;PBk31;;;;opaque;;;;/PBk31/;1;;
-Schminke Payne's grey;Schmincke;783;PR101;PB29;PBk7;;semi-opaque;;;;/PR101/PB29/PBk7/;3;;
-lamp black;Schmincke;781;PBk6;;;;opaque;;;;/PBk6/;1;;
-ivory black;Schmincke;780;PBk9;;;;semi-opaque;;;;/PBk9/;1;;
-hematite black;Schmincke;789;PG17;;;;opaque;G;;;/PG17/;1;;
-anthracite;Schmincke;786;PBk7;;;;opaque;;;;/PBk7/;1;;
-graphite grey;Schmincke;788;PBk10;;;;opaque;;;;/PBk10/;1;;
-Mars black;Schmincke;791;PBk11;;;;opaque;G;;;/PBk11/;1;;
-silver;Schmincke;894;--;;;;semi-opaque;;;;/--/;1;;
-gold;Schmincke;893;--;;;;semi-opaque;;;;/--/;1;;
-brilliant opera rose;Schmincke;920;PR122;fluor Pigment;;;transparent;;;;/PR122/fluor Pigment/;2;;
-brilliant purple;Schmincke;930;PR122;fluor Pigment;;;semi-transparent;;;;/PR122/fluor Pigment/;2;;
-brilliant red violet;Schmincke;940;PR55;fluor Pigment;;;semi-transparent;;;;/PR55/fluor Pigment/;2;;
-brilliant blue violet;Schmincke;910;PR122;PV23;fluor Pigment;;semi-transparent;;;;/PR122/PV23/fluor Pigment/;3;;
-ONETZ;Schmincke;31;--;;;;;;;;/--/;1;;
-volcano yellow;Schmincke;911;PR159;;;;transparent;SG;;;/PR159/;1;;
-volcano orange;Schmincke;912;PY159;PR108;;;transparent;SG;;;/PY159/PR108/;2;;
-volcano red;Schmincke;913;PR108;;;;semi-transparent;SG;;;/PR108/;1;;
-volcano violet;Schmincke;914;PV62;PR108;;;semi-opaque;SG;;;/PV62/PR108/;2;;
-volcano brown;Schmincke;915;PR108;PBk11;;;semi-opaque;SG;;;/PR108/PBk11/;2;;
-desert yellow;Schmincke;921;PY159;PBr7;;;semi-transparent;SG;;;/PY159/PBr7/;2;;
-desert orange;Schmincke;922;PY159;PBr33;;;semi-transparent;SG;;;/PY159/PBr33/;2;;
-desert brown;Schmincke;923;PY159;PR108;PBk11;;semi-opaque;SG;;;/PY159/PR108/PBk11/;3;;
-desert green;Schmincke;924;PR108;PG26;;;opaque;SG;;;/PR108/PG26/;2;;
-desert grey;Schmincke;925;PY159;PBk11;;;semi-opaque;SG;;;/PY159/PBk11/;2;;
-galaxy pink;Schmincke;971;PV16;PBr33;;;semi-opaque;SG;;;/PV16/PBr33/;2;;
-galaxy violet;Schmincke;972;PR233;PB29;;;semi-transparent;SG;;;/PR233/PB29/;2;;
-galaxy blue;Schmincke;973;PG50;PB29;;;semi-transparent;SG;;;/PG50/PB29/;2;;
-galaxy brown;Schmincke;974;PV62;PBr6;;;semi-opaque;SG;;;/PV62/PBr6/;2;;
-galaxy black;Schmincke;975;PBk11;PB29;;;semi-opaque;SG;;;/PBk11/PB29/;2;;
-tundra orange;Schmincke;981;PR233;PBr7;PY43;;transparent;SG;;;/PR233/PBr7/PY43/;3;;
-tundra pink;Schmincke;982;PB29;PR233;;;transparent;SG;;;/PB29/PR233/;2;;
-tundra violet;Schmincke;983;PB29;PBr6;;;semi-transparent;SG;;;/PB29/PBr6/;2;;
-tundra blue;Schmincke;984;PB29;PBr7;;;transparent;SG;;;/PB29/PBr7/;2;;
-tundra green;Schmincke;985;PBr6;PG19;;;opaque;SG;;;/PBr6/PG19/;2;;
-deep sea violet;Schmincke;951;PB29;PBr33;;;semi-opaque;SG;;;/PB29/PBr33/;2;;
-deep sea indigo;Schmincke;952;PV62;PG18;;;semi-transparent;SG;;;/PV62/PG18/;2;;
-deep sea blue;Schmincke;953;PG50;PV16;PB29;;semi-transparent;SG;;;/PG50/PV16/PB29/;3;;
-deep sea green;Schmincke;954;PG18;PB29;;;semi-transparent;SG;;;/PG18/PB29/;2;;
-deep sea black;Schmincke;955;PBk11;PB74;PB35;;semi-opaque;SG;;;/PBk11/PB74/PB35/;3;;
-glacier blue;Schmincke;961;PB29;PG50;;;semi-transparent;SG;;;/PB29/PG50/;2;;
-glacier turquoise;Schmincke;962;PG50;PV16;;;semi-opaque;SG;;;/PG50/PV16/;2;;
-glacier green;Schmincke;963;PR233;PG50;;;semi-opaque;SG;;;/PR233/PG50/;2;;
-glacier brown;Schmincke;964;PBr6;PG26;;;opaque;SG;;;/PBr6/PG26/;2;;
-glacier black;Schmincke;965;PBk11;PB35;;;semi-opaque;SG;;;/PBk11/PB35/;2;;
-shire yellow;Schmincke;931;PY159;PV62;;;transparent;SG;;;/PY159/PV62/;2;;
-shire olive;Schmincke;932;PY159;PB35;;;semi-transparent;SG;;;/PY159/PB35/;2;;
-shire green;Schmincke;933;PY159;PG18;;;transparent;SG;;;/PY159/PG18/;2;;
-shire blue;Schmincke;934;PY159;PB29;PG26;;opaque;SG;;;/PY159/PB29/PG26/;3;;
-shire grey;Schmincke;935;PY159;PB74;PBk11;;semi-opaque;SG;;;/PY159/PB74/PBk11/;3;;
-forest olive;Schmincke;941;PG18;PBR7;PY43;;semi-transparent;SG;;;/PG18/PBR7/PY43/;3;;
-forest green;Schmincke;942;PG19;PBr33;;;opaque;SG;;;/PG19/PBr33/;2;;
-forest blue;Schmincke;943;PB36;PBk11;;;semi-opaque;SG;;;/PB36/PBk11/;2;;
-forest brown;Schmincke;944;PG26;PBr7;PY43;;semi-transparent;SG;;;/PG26/PBr7/PY43/;3;;
-forest grey;Schmincke;945;PBr7;PG50;PBk11;;semi-opaque;SG;;;/PBr7/PG50/PBk11/;3;;
+Name,Company,ID,pigment1,pigment2,pigment3,pigment4,Transparency,Granulating,Staining,Lightfastness,(Pigments),(count-pigments)
+titanium opaque white,Schmincke,101,PW6,,,,opaque,,,,/PW6/,1
+permanent Chinese white,Schmincke,102,PW4,,,,semi-transparent,,,,/PW4/,1
+titanium yellow,Schmincke,206,PY53,,,,semi-opaque,,,,/PY53/,1
+lemon yellow,Schmincke,215,PY3,,,,semi-transparent,,,,/PY3/,1
+cadmium yellow lemon,Schmincke,223,PY35,,,,semi-opaque,,,,/PY35/,1
+chromium yellow lemon,Schmincke,211,PY175,,,,transparent,,,,/PY175/,1
+vanadium yellow,Schmincke,207,PY184,,,,opaque,,,,/PY184/,1
+cadmium yellow light,Schmincke,224,PY35,,,,opaque,,,,/PY35/,1
+pure yellow,Schmincke,216,PY154,,,,transparent,,,,/PY154/,1
+aureolin hue,Schmincke,208,PY151,,,,semi-transparent,,,,/PY151/,1
+cadmium yellow medium,Schmincke,225,PY35,,,,semi-opaque,,,,/PY35/,1
+chromium yellow hue light,Schmincke,212,PY153,PY155,,,transparent,,,,/PY153/PY155/,2
+transparent yellow,Schmincke,209,PY150,,,,transparent,,,,/PY150/,1
+Turner's yellow,Schmincke,219,PY216,,,,semi-opaque,,,,/PY216/,1
+quinacridone gold,Schmincke,217,PY150,PR101,,,transparent,,,,/PY150/PR101/,2
+chromium yellow hue deep,Schmincke,213,PY65,,,,semi-transparent,,,,/PY65/,1
+cadmium yellow hue deep,Schmincke,226,PY35,PO20,,,semi-opaque,,,,/PY35/PO20/,2
+Indian yellow,Schmincke,220,PY110,PY154,,,transparent,,,,/PY110/PY154/,2
+yellow orange,Schmincke,222,PY110,,,,transparent,,,,/PY110/,1
+cadmium orange light,Schmincke,227,PO20,,,,semi-opaque,,,,/PO20/,1
+chromium orange hue,Schmincke,214,PO62,,,,semi-transparent,,,,/PO62/,1
+cadmium orange deep,Schmincke,228,PO20,,,,opaque,,,,/PO20/,1
+transparent orange,Schmincke,218,PO71,,,,semi-transparent,,,,/PO71/,1
+Saturn red,Schmincke,359,PO64,,,,semi-transparent,,,,/PO64/,1
+cadmium red orange,Schmincke,348,PO20,,,,opaque,,,,/PO20/,1
+permanent red orange,Schmincke,360,PO62,PR242,,,semi-opaque,,,,/PO62/PR242/,2
+permanent red,Schmincke,361,PR242,PO62,,,semi-opaque,,,,/PR242/PO62/,2
+cadmium red light,Schmincke,349,PR108,,,,opaque,,,,/PR108/,1
+geranium red,Schmincke,341,PR242,,,,semi-transparent,,,,/PR242/,1
+vermillion,Schmincke,365,PR255,,,,opaque,,,,/PR255/,1
+vermillion light,Schmincke,342,PR188,,,,transparent,,,,/PR188/,1
+scarlet red,Schmincke,363,PR254,,,,semi-opaque,,,,/PR254/,1
+cadmium red medium,Schmincke,347,PR108,,,,opaque,,,,/PR108/,1
+qunacridone red light,Schmincke,343,PR207,,,,transparent,,,,/PR207/,1
+transparent red deep,Schmincke,355,PR144,,,,semi-transparent,,,,/PR144/,1
+cadmium red deep,Schmincke,350,PR108,,,,opaque,,,,/PR108/,1
+perylene maroon,Schmincke,366,PR179,,,,semi-opaque,,,,/PR179/,1
+perylene dark red,Schmincke,344,PR178,,,,semi-opaque,,,,/PR178/,1
+alizarin crimson,Schmincke,357,PR83:1,,,,semi-transparent,,,,/PR83:1/,1
+ruby red deep,Schmincke,346,PR264,,,,semi-opaque,,,,/PR264/,1
+madder lake deep,Schmincke,358,PR83:1,PR177,,,semi-transparent,,,,/PR83:1/PR177/,2
+madder red dark,Schmincke,354,PV19,PR179,,,semi-transparent,,,,/PV19/PR179/,2
+Bordeaux ,Schmincke,362,PR187,,,,transparent,,,,/PR187/,1
+rose madder,Schmincke,356,PR83:1,PR48:4,,,transparent,,,,/PR83:1/PR48:4/,2
+permanent carmine,Schmincke,353,PV19,,,,semi-opaque,,,,/PV19/,1
+ruby red,Schmincke,351,PV19,,,,semi-transparent,,,,/PV19/,1
+magenta,Schmincke,352,PV42,,,,semi-transparent,,,,/PV42/,1
+purple magenta,Schmincke,367,PR122,,,,transparent,,,,/PR122/,1
+quinacridone magenta,Schmincke,369,PR202,,,,semi-transparent,,,,/PR202/,1
+quinacridone violet,Schmincke,368,PV19,,,,semi-opaque,,,,/PV19/,1
+potters pink,Schmincke,370,PR233,,,,semi-transparent,G,,,/PR233/,1
+perylene violet,Schmincke,371,PV29,,,,opaque,,,,/PV29/,1
+quinacridone purple,Schmincke,472,PV55,,,,semi-transparent,,,,/PV55/,1
+manganese violet,Schmincke,474,PV16,,,,semi-transparent,G,,,/PV16/,1
+Schmincke violet,Schmincke,476,PV23,,,,semi-transparent,,,,/PV23/,1
+cobalt violet blue,Schmincke,473,PV62,,,,transparent,G,,,/PV62/,1
+ultramarine violet,Schmincke,495,PV15,PB29,,,semi-transparent,G,,,/PV15/PB29/,2
+Delft blue,Schmincke,482,PB60,,,,opaque,,,,/PB60/,1
+indigo,Schmincke,485,PB15:1,PB66,,,opaque,,,,/PB15:1/PB66/,2
+dark blue,Schmincke,498,PB60,,,,semi-opaque,,,,/PB60/,1
+phtalo saphire blue,Schmincke,477,PB15:6,,,,semi-transparent,,,,/PB15:6/,1
+cobalt blue deep,Schmincke,488,PB74,,,,semi-transparent,G,,,/PB74/,1
+french ultramarine,Schmincke,493,PB29,,,,transparent,G,,,/PB29/,1
+ultramarine finest,Schmincke,494,PB29,,,,semi-transparent,,,,/PB29/,1
+ultramarine blue,Schmincke,496,PB15,PB29,,,semi-transparent,,,,/PB15/PB29/,2
+cobalt blue light,Schmincke,487,PB28,,,,semi-transparent,,,,/PB28/,1
+cobalt blue hue,Schmincke,486,PW4,PB29,,,semi-transparent,,,,/PW4/PB29/,2
+mountain blue,Schmincke,480,PW5,PB29,PG7,,semi-transparent,,,,/PW5/PB29/PG7/,3
+cobalt azure,Schmincke,483,PB35,,,,semi-transparent,G,,,/PB35/,1
+Prussian blue,Schmincke,492,PB27,,,,semi-opaque,,,,/PB27/,1
+Paris blue,Schmincke,491,PB15,PB15:1,PB27,,semi-opaque,,,,/PB15/PB15:1/PB27/,3
+phtalo blue,Schmincke,484,PB15:1,,,,semi-transparent,,,,/PB15:1/,1
+cerulean blue hue,Schmincke,481,PW4,PB15:3,,,semi-transparent,,,,/PW4/PB15:3/,2
+helio cerulean,Schmincke,479,PB15:3,,,,semi-transparent,,,,/PB15:3/,1
+cobalt cerulean,Schmincke,499,PB36,,,,semi-opaque,G,,,/PB36/,1
+helio turquoise,Schmincke,475,PB16,,,,semi-transparent,,,,/PB16/,1
+cobalt turquoise,Schmincke,509,PG50,,,,semi-transparent,G,,,/PG50/,1
+cobalt green turquoise,Schmincke,510,PB36,,,,opaque,G,,,/PB36/,1
+Prussian green,Schmincke,528,PG7,PB60,,,semi-opaque,,,,/PG7/PB60/,2
+viridian,Schmincke,513,PG18,,,,semi-transparent,G,,,/PG18/,1
+chromium oxide green brilliant,Schmincke,511,PG18,PG7,,,transparent,G,,,/PG18/PG7/,2
+phtalo green,Schmincke,519,PG7,,,,transparent,,,,/PG7/,1
+helio green,Schmincke,514,PG36,,,,semi-transparent,,,,/PG36/,1
+permanent green olive,Schmincke,534,PG62,PG7,,,semi-opaque,,,,/PG62/PG7/,2
+sap green,Schmincke,530,PY153,PG7,,,transparent,,,,/PY153/PG7/,2
+permanent green,Schmincke,526,PY155,PG7,,,semi-transparent,,,,/PY155/PG7/,2
+may green,Schmincke,524,PY151,PG7,,,transparent,,,,/PY151/PG7/,2
+cobalt green pure,Schmincke,535,PG19,,,,opaque,G,,,/PG19/,1
+cobalt green dark,Schmincke,533,PG26,,,,opaque,G,,,/PG26/,1
+Hooker's green,Schmincke,521,PB15:3,PG7,PY42,,opaque,,,,/PB15:3/PG7/PY42/,3
+olive green,Schmincke,515,PB15,PG8,,,semi-opaque,,,,/PB15/PG8/,2
+chromium oxide green,Schmincke,512,PG17,,,,opaque,,,,/PG17/,1
+olive green yellowish,Schmincke,525,PO62,PG36,,,semi-transparent,,,,/PO62/PG36/,2
+green earth,Schmincke,516,PBr7,PG7,,,semi-transparent,,,,/PBr7/PG7/,2
+transparent green gold,Schmincke,537,PY154,PBr7,,,transparent,,,,/PY154/PBr7/,2
+rutile yellow,Schmincke,205,PY53,,,,semi-opaque,,,,/PY53/,1
+jaune brilliant dark,Schmincke,221,PW6,PY53,PBr24,,opaque,,,,/PW6/PY53/PBr24/,3
+Naples yellow,Schmincke,229,PW6,PY53,PBr24,,opaque,,,,/PW6/PY53/PBr24/,3
+raw Sienna,Schmincke,660,PBr7,PY43,,,semi-transparent,,,,/PBr7/PY43/,2
+yellow raw ochre,Schmincke,656,PY42,PY43,,,semi-transparent,,,,/PY42/PY43/,2
+titanium gold ochre,Schmincke,659,PBr24,,,,opaque,,,,/PBr24/,1
+yellow ochre,Schmincke,655,PY42,,,,semi-opaque,,,,/PY42/,1
+transparent ochre,Schmincke,657,PY42,,,,transparent,,,,/PY42/,1
+raw umber,Schmincke,667,PBr7,PY43,,,semi-transparent,G,,,/PBr7/PY43/,2
+Naples yellow reddish,Schmincke,230,PW6,PW4,PR242,PY42,opaque,,,,/PW6/PW4/PR242/PY42/,4
+spinel brown,Schmincke,650,PY119,,,,opaque,,,,/PY119/,1
+gold brown,Schmincke,654,PY65,PBr41,,,semi-opaque,,,,/PY65/PBr41/,2
+transparent Sienna,Schmincke,653,PR101,,,,transparent,,,,/PR101/,1
+maroon brown,Schmincke,651,PBr7,,,,semi-opaque,G,,,/PBr7/,1
+burnt Sienna,Schmincke,661,PR101,PBk9,,,semi-opaque,,,,/PR101/PBk9/,2
+English Venetian red,Schmincke,649,PR101,,,,opaque,,,,/PR101/,1
+madder brown,Schmincke,670,PR206,,,,semi-transparent,,,,/PR206/,1
+transparent brown,Schmincke,648,PBr41,,,,semi-opaque,,,,/PBr41/,1
+mahogany brown,Schmincke,672,PBr33,,,,opaque,G,,,/PBr33/,1
+Indian red,Schmincke,645,PR101,PR206,,,opaque,G,,,/PR101/PR206/,2
+Mars brown,Schmincke,658,PBr6,,,,opaque,G,,,/PBr6/,1
+transparent umber,Schmincke,671,PR101,,,,transparent,,,,/PR101/,1
+burnt umber,Schmincke,668,PBr7,,,,semi-opaque,,,,/PBr7/,1
+green umber,Schmincke,665,PBr7,,,,semi-transparent,G,,,/PBr7/,1
+Vandyke brown,Schmincke,669,PY150,PBr7,PBk7,,semi-opaque,,,,/PY150/PBr7/PBk7/,3
+sepia brown,Schmincke,663,PB15:1,PBr7,PBk9,,semi-opaque,,,,/PB15:1/PBr7/PBk9/,3
+sepia brown reddish,Schmincke,662,PR242,PBr7,PBk9,,semi-opaque,,,,/PR242/PBr7/PBk9/,3
+neutral tint,Schmincke,782,PR122,PB60,PBk7,,semi-opaque,,,,/PR122/PB60/PBk7/,3
+neutral grey,Schmincke,785,PR255,PB255,PO62,,semi-opaque,,,,/PR255/PB255/PO62/,3
+Payne's grey bluish,Schmincke,787,PBk6,PB15:6,,,semi-opaque,,,,/PBk6/PB15:6/,2
+perylene green,Schmincke,784,PBk31,,,,opaque,,,,/PBk31/,1
+Schminke Payne's grey,Schmincke,783,PR101,PB29,PBk7,,semi-opaque,,,,/PR101/PB29/PBk7/,3
+lamp black,Schmincke,781,PBk6,,,,opaque,,,,/PBk6/,1
+ivory black,Schmincke,780,PBk9,,,,semi-opaque,,,,/PBk9/,1
+hematite black,Schmincke,789,PG17,,,,opaque,G,,,/PG17/,1
+anthracite,Schmincke,786,PBk7,,,,opaque,,,,/PBk7/,1
+graphite grey,Schmincke,788,PBk10,,,,opaque,,,,/PBk10/,1
+Mars black,Schmincke,791,PBk11,,,,opaque,G,,,/PBk11/,1
+silver,Schmincke,894,--,,,,semi-opaque,,,,/--/,1
+gold,Schmincke,893,--,,,,semi-opaque,,,,/--/,1
+brilliant opera rose,Schmincke,920,PR122,fluor Pigment,,,transparent,,,,/PR122/fluor Pigment/,2
+brilliant purple,Schmincke,930,PR122,fluor Pigment,,,semi-transparent,,,,/PR122/fluor Pigment/,2
+brilliant red violet,Schmincke,940,PR55,fluor Pigment,,,semi-transparent,,,,/PR55/fluor Pigment/,2
+brilliant blue violet,Schmincke,910,PR122,PV23,fluor Pigment,,semi-transparent,,,,/PR122/PV23/fluor Pigment/,3
+ONETZ,Schmincke,31,--,,,,,,,,/--/,1
+volcano yellow,Schmincke,911,PR159,,,,transparent,SG,,,/PR159/,1
+volcano orange,Schmincke,912,PY159,PR108,,,transparent,SG,,,/PY159/PR108/,2
+volcano red,Schmincke,913,PR108,,,,semi-transparent,SG,,,/PR108/,1
+volcano violet,Schmincke,914,PV62,PR108,,,semi-opaque,SG,,,/PV62/PR108/,2
+volcano brown,Schmincke,915,PR108,PBk11,,,semi-opaque,SG,,,/PR108/PBk11/,2
+desert yellow,Schmincke,921,PY159,PBr7,,,semi-transparent,SG,,,/PY159/PBr7/,2
+desert orange,Schmincke,922,PY159,PBr33,,,semi-transparent,SG,,,/PY159/PBr33/,2
+desert brown,Schmincke,923,PY159,PR108,PBk11,,semi-opaque,SG,,,/PY159/PR108/PBk11/,3
+desert green,Schmincke,924,PR108,PG26,,,opaque,SG,,,/PR108/PG26/,2
+desert grey,Schmincke,925,PY159,PBk11,,,semi-opaque,SG,,,/PY159/PBk11/,2
+galaxy pink,Schmincke,971,PV16,PBr33,,,semi-opaque,SG,,,/PV16/PBr33/,2
+galaxy violet,Schmincke,972,PR233,PB29,,,semi-transparent,SG,,,/PR233/PB29/,2
+galaxy blue,Schmincke,973,PG50,PB29,,,semi-transparent,SG,,,/PG50/PB29/,2
+galaxy brown,Schmincke,974,PV62,PBr6,,,semi-opaque,SG,,,/PV62/PBr6/,2
+galaxy black,Schmincke,975,PBk11,PB29,,,semi-opaque,SG,,,/PBk11/PB29/,2
+tundra orange,Schmincke,981,PR233,PBr7,PY43,,transparent,SG,,,/PR233/PBr7/PY43/,3
+tundra pink,Schmincke,982,PB29,PR233,,,transparent,SG,,,/PB29/PR233/,2
+tundra violet,Schmincke,983,PB29,PBr6,,,semi-transparent,SG,,,/PB29/PBr6/,2
+tundra blue,Schmincke,984,PB29,PBr7,,,transparent,SG,,,/PB29/PBr7/,2
+tundra green,Schmincke,985,PBr6,PG19,,,opaque,SG,,,/PBr6/PG19/,2
+deep sea violet,Schmincke,951,PB29,PBr33,,,semi-opaque,SG,,,/PB29/PBr33/,2
+deep sea indigo,Schmincke,952,PV62,PG18,,,semi-transparent,SG,,,/PV62/PG18/,2
+deep sea blue,Schmincke,953,PG50,PV16,PB29,,semi-transparent,SG,,,/PG50/PV16/PB29/,3
+deep sea green,Schmincke,954,PG18,PB29,,,semi-transparent,SG,,,/PG18/PB29/,2
+deep sea black,Schmincke,955,PBk11,PB74,PB35,,semi-opaque,SG,,,/PBk11/PB74/PB35/,3
+glacier blue,Schmincke,961,PB29,PG50,,,semi-transparent,SG,,,/PB29/PG50/,2
+glacier turquoise,Schmincke,962,PG50,PV16,,,semi-opaque,SG,,,/PG50/PV16/,2
+glacier green,Schmincke,963,PR233,PG50,,,semi-opaque,SG,,,/PR233/PG50/,2
+glacier brown,Schmincke,964,PBr6,PG26,,,opaque,SG,,,/PBr6/PG26/,2
+glacier black,Schmincke,965,PBk11,PB35,,,semi-opaque,SG,,,/PBk11/PB35/,2
+shire yellow,Schmincke,931,PY159,PV62,,,transparent,SG,,,/PY159/PV62/,2
+shire olive,Schmincke,932,PY159,PB35,,,semi-transparent,SG,,,/PY159/PB35/,2
+shire green,Schmincke,933,PY159,PG18,,,transparent,SG,,,/PY159/PG18/,2
+shire blue,Schmincke,934,PY159,PB29,PG26,,opaque,SG,,,/PY159/PB29/PG26/,3
+shire grey,Schmincke,935,PY159,PB74,PBk11,,semi-opaque,SG,,,/PY159/PB74/PBk11/,3
+forest olive,Schmincke,941,PG18,PBR7,PY43,,semi-transparent,SG,,,/PG18/PBR7/PY43/,3
+forest green,Schmincke,942,PG19,PBr33,,,opaque,SG,,,/PG19/PBr33/,2
+forest blue,Schmincke,943,PB36,PBk11,,,semi-opaque,SG,,,/PB36/PBk11/,2
+forest brown,Schmincke,944,PG26,PBr7,PY43,,semi-transparent,SG,,,/PG26/PBr7/PY43/,3
+forest grey,Schmincke,945,PBr7,PG50,PBk11,,semi-opaque,SG,,,/PBr7/PG50/PBk11/,3,,
